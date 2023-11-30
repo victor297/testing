@@ -1,17 +1,12 @@
-## Download the starter kit
+https://github.com/victor297/testing
 
-npx degit https://github.com/victor297/testing
 ## Install dependencies
-
-cd my-app &&
-yarn
-
+npm install
 ## Run dev server
-
-yarn start
+npm start start
 
 ## Build
+npm build
 
-yarn build
-# testing
-# testing
+
+## by victor with typescript
